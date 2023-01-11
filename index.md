@@ -22,3 +22,5 @@ The real-time communication of subscriptions however was found not to function w
 ### [React Native Expo Publish](https://expo.dev/@jglchen/hackernews-apollo)
 ### [React Native GitHub](https://github.com/jglchen/react-native-hackernews-apollo)
 ### back To [Series Home](https://jglchen.github.io/)
+
+{% include giscus.html %}
