@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/lib/*": ["lib/*"],
+      "@/backsrc/*": ["backsrc/*"],
+      "@/resolvers/*": ["resolvers/*"],
+      "@/components/*": ["components/*"],
+      "@/styles/*": ["styles/*"],
+    },
+    
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "backsrc/utils.ts", "components/LinkList.tsx", "components/Search.tsx", "pages/api/graphql.ts", "resolvers/Link.ts", "resolvers/Subscription.js"],
+  "exclude": ["node_modules"]
+}
