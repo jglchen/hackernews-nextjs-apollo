@@ -14,12 +14,14 @@ The real-time communication of subscriptions however was found not to function w
 
 [![hackernews-nextjs-apollo-screenshot](/images/hackernews-nextjs-apollo-screenshot.png)](https://hackernews-nextjs-apollo.vercel.app)
 
-**iOS** and **Android** mobile apps are also delivered. The apps are developed with **React Native**, anyone who is interested can test the apps through the [Expo Publish Link](https://expo.dev/@jglchen/hackernews-apollo) with [Expo Go](https://expo.dev/client) app. 
+**iOS** and **Android** mobile apps are also delivered. The apps are developed with **React Native**, anyone who is interested can test the development builds with [iOS Simulator Build](https://expo.dev/accounts/jglchen/projects/hackernews-apollo/builds/b6aa3b39-e2ec-48cd-89f5-14028feff519) and [Android Internal Distribution Build](https://expo.dev/accounts/jglchen/projects/hackernews-apollo/builds/5b979dee-6874-48a8-ade1-231a750eca9c). If the build storage link has expired, please go to [https://projects-jglchen.vercel.app/en/contact](https://projects-jglchen.vercel.app/en/contact) to request build files.
+
 
 ### [View the App](https://hackernews-nextjs-apollo.vercel.app)
 ### [App GitHub](https://github.com/jglchen/hackernews-nextjs-apollo)
 ### Docker: docker run -p 3000:3000 jglchen/hackernews-nextjs-apollo
-### [React Native Expo Publish](https://expo.dev/@jglchen/hackernews-apollo)
+### [iOS Simulator Build](https://expo.dev/accounts/jglchen/projects/hackernews-apollo/builds/b6aa3b39-e2ec-48cd-89f5-14028feff519)
+### [Android Internal Distribution Build](https://expo.dev/accounts/jglchen/projects/hackernews-apollo/builds/5b979dee-6874-48a8-ade1-231a750eca9c)
 ### [React Native GitHub](https://github.com/jglchen/react-native-hackernews-apollo)
 ### back To [Series Home](https://jglchen.github.io/)
 
