@@ -73,9 +73,11 @@ const Header = () => {
       )}
     </div>
   </div>
+  {/* 
   <div className="pv2 ph3" style={{textAlign: 'right'}}>
      React Native Expo Publish: <a  className="blue" href="https://exp.host/@jglchen/hackernews-apollo" target="_blank" rel="noreferrer">https://exp.host/@jglchen/hackernews-apollo</a>
   </div>
+  */}
   </>
   );
 };
